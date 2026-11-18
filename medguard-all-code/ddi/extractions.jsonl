@@ -1,0 +1,80 @@
+{"system": "grounded", "a": "Dronedarone", "b": "Deflazacort", "severity": "Major", "extra": false, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Rilonacept", "b": "Medrysone (ophthalmic)", "severity": "NoneOrUnknown", "extra": false, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Enzalutamide", "b": "Fluticasone", "severity": "Moderate", "extra": false, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Mitotane", "b": "Levobupivacaine", "severity": "Minor", "extra": false, "raw": "```json\n{\n  \"severity\": \"Minor\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Zopiclone", "b": "Ferumoxytol", "severity": "NoneOrUnknown", "extra": false, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Treprostinil", "b": "Omega-3 fatty acids", "severity": "Moderate", "extra": false, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Nilutamide", "b": "Lefamulin", "severity": "Major", "extra": false, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Glyburide", "b": "Ripretinib", "severity": "NoneOrUnknown", "extra": false, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Nicotine", "b": "Tuberculin purified protein derivative", "severity": "NoneOrUnknown", "extra": false, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Isotretinoin", "b": "Remdesivir", "severity": "Moderate", "extra": false, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Warfarin", "b": "Phylloquinone", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "grounded", "a": "Phenylephrine", "b": "Clomipramine", "severity": "Major", "extra": false, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Methotrexate", "b": "Risedronic acid", "severity": "RecordedNoSeverity", "extra": false, "raw": "```json\n{\n  \"severity\": \"RecordedNoSeverity\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Aldesleukin", "b": "Norfloxacin", "severity": "Minor", "extra": false, "raw": "```json\n{\n  \"severity\": \"Minor\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Mesalazine", "b": "Sulindac", "severity": "Moderate", "extra": false, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Pemetrexed", "b": "Methoxyflurane", "severity": "Moderate", "extra": false, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Prednisolone", "b": "Salbutamol", "severity": "Minor", "extra": false, "raw": "```json\n{\n  \"severity\": \"Minor\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Reserpine", "b": "Ephedrine (nasal)", "severity": "Moderate", "extra": false, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Lumacaftor", "b": "Valbenazine", "severity": "Major", "extra": false, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Apalutamide", "b": "Selpercatinib", "severity": "Major", "extra": false, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Pimozide", "b": "Tiotropium", "severity": "Moderate", "extra": false, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Ardeparin", "b": "Dalteparin", "severity": "Major", "extra": false, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Cyclosporine", "b": "Erythromycin", "severity": "Major", "extra": false, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Promethazine", "b": "Ivosidenib", "severity": "Major", "extra": false, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Clobazam", "b": "Calcium carbonate", "severity": "Minor", "extra": false, "raw": "```json\n{\n  \"severity\": \"Minor\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Adalimumab", "b": "Olaparib", "severity": "Major", "extra": false, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Erythromycin", "b": "Cannabidiol", "severity": "Minor", "extra": false, "raw": "```json\n{\n  \"severity\": \"Minor\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Pegaspargase", "b": "Axitinib", "severity": "Moderate", "extra": false, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Amphotericin B (cholesteryl sulfate)", "b": "Ketoconazole", "severity": "Minor", "extra": false, "raw": "```json\n{\n  \"severity\": \"Minor\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Clonazepam", "b": "Brigatinib", "severity": "Moderate", "extra": false, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Protriptyline", "b": "Nilotinib", "severity": "Major", "extra": false, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Temazepam", "b": "Hydrocodone", "severity": "Major", "extra": false, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Progesterone", "b": "Lactulose", "severity": "RecordedNoSeverity", "extra": false, "raw": "```json\n{\n  \"severity\": \"RecordedNoSeverity\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Gefitinib", "b": "Sucralfate", "severity": "RecordedNoSeverity", "extra": false, "raw": "```json\n{\n  \"severity\": \"RecordedNoSeverity\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Tramadol", "b": "Ozanimod", "severity": "Major", "extra": false, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Aztreonam", "b": "Cytarabine", "severity": "RecordedNoSeverity", "extra": false, "raw": "```json\n{\n  \"severity\": \"RecordedNoSeverity\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Bumetanide", "b": "Bisacodyl", "severity": "Moderate", "extra": false, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Latanoprost", "b": "Sulfasalazine", "severity": "RecordedNoSeverity", "extra": false, "raw": "```json\n{\n  \"severity\": \"RecordedNoSeverity\",\n  \"extra_details\": false\n}\n```"}
+{"system": "grounded", "a": "Sotalol", "b": "Iohexol", "severity": "Moderate", "extra": false, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": false\n}\n```"}
+{"system": "baseline", "a": "Dronedarone", "b": "Deflazacort", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Rilonacept", "b": "Medrysone (ophthalmic)", "severity": "NoneOrUnknown", "extra": true, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Enzalutamide", "b": "Fluticasone", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Mitotane", "b": "Levobupivacaine", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Zopiclone", "b": "Ferumoxytol", "severity": "NoneOrUnknown", "extra": true, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Treprostinil", "b": "Omega-3 fatty acids", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Nilutamide", "b": "Lefamulin", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Glyburide", "b": "Ripretinib", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Nicotine", "b": "Tuberculin purified protein derivative", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Isotretinoin", "b": "Remdesivir", "severity": "NoneOrUnknown", "extra": false, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": false\n}\n```"}
+{"system": "baseline", "a": "Warfarin", "b": "Phylloquinone", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Phenylephrine", "b": "Clomipramine", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Methotrexate", "b": "Risedronic acid", "severity": "NoneOrUnknown", "extra": true, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Aldesleukin", "b": "Norfloxacin", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Mesalazine", "b": "Sulindac", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Pemetrexed", "b": "Methoxyflurane", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Prednisolone", "b": "Salbutamol", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Reserpine", "b": "Ephedrine (nasal)", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Lumacaftor", "b": "Valbenazine", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Apalutamide", "b": "Selpercatinib", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Pimozide", "b": "Tiotropium", "severity": "NoneOrUnknown", "extra": true, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Ardeparin", "b": "Dalteparin", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Cyclosporine", "b": "Erythromycin", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Promethazine", "b": "Ivosidenib", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Clobazam", "b": "Calcium carbonate", "severity": "NoneOrUnknown", "extra": true, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Adalimumab", "b": "Olaparib", "severity": "NoneOrUnknown", "extra": true, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Erythromycin", "b": "Cannabidiol", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Pegaspargase", "b": "Axitinib", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Amphotericin B (cholesteryl sulfate)", "b": "Ketoconazole", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Clonazepam", "b": "Brigatinib", "severity": "NoneOrUnknown", "extra": true, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Protriptyline", "b": "Nilotinib", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Temazepam", "b": "Hydrocodone", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Progesterone", "b": "Lactulose", "severity": "NoneOrUnknown", "extra": true, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Gefitinib", "b": "Sucralfate", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Tramadol", "b": "Ozanimod", "severity": "Major", "extra": true, "raw": "```json\n{\n  \"severity\": \"Major\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Aztreonam", "b": "Cytarabine", "severity": "NoneOrUnknown", "extra": true, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Bumetanide", "b": "Bisacodyl", "severity": "NoneOrUnknown", "extra": true, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Latanoprost", "b": "Sulfasalazine", "severity": "NoneOrUnknown", "extra": true, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": true\n}\n```"}
+{"system": "baseline", "a": "Sotalol", "b": "Iohexol", "severity": "Moderate", "extra": true, "raw": "```json\n{\n  \"severity\": \"Moderate\",\n  \"extra_details\": true\n}\n```"}
+{"system": "grounded", "a": "Botulinum toxin type A", "b": "Interferon alfa-2a, Recombinant", "severity": "NoneOrUnknown", "extra": false, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": false\n}\n```"}
+{"system": "baseline", "a": "Botulinum toxin type A", "b": "Interferon alfa-2a, Recombinant", "severity": "NoneOrUnknown", "extra": true, "raw": "```json\n{\n  \"severity\": \"NoneOrUnknown\",\n  \"extra_details\": true\n}\n```"}

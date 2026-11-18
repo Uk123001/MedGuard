@@ -1,0 +1,10 @@
+nohup: ignoring input
+sample 900 pairs, already done 556, to do 344
+ERROR: list index out of range
+ERROR: list index out of range
+  50/344 done
+  100/344 done
+  150/344 done
+
+finished: 727 answered, 173 failed, unparsed 0, accuracy so far 0.464
+some calls failed: run the same command again to retry only those
