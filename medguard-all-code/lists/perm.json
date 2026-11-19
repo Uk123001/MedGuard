@@ -1,1 +1,0 @@
-{"Version":"2012-10-17","Statement":[{"Effect":"Allow","Action":["dynamodb:GetItem","dynamodb:PutItem","dynamodb:UpdateItem","dynamodb:Scan"],"Resource":"arn:aws:dynamodb:ap-southeast-2:623045222203:table/medguard-lists"}]}

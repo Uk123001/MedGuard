@@ -1,6 +1,0 @@
-{"a": "golimumab", "b": "smallpox (vaccinia) vaccine, live", "true": 2, "raw": "Major", "llm": 2}
-{"a": "oxaprozin", "b": "ranitidine (bismuth citrate)", "true": 0, "raw": "Moderate", "llm": 1}
-{"a": "fludarabine", "b": "moxifloxacin", "true": 0, "raw": "Major", "llm": 2}
-{"a": "clozapine", "b": "iohexol", "true": 2, "raw": "Major", "llm": 2}
-{"a": "dicyclomine", "b": "morphine (liposomal)", "true": 1, "raw": "Moderate", "llm": 1}
-{"a": "granisetron", "b": "hydromorphone", "true": 1, "raw": "Moderate", "llm": 1}
