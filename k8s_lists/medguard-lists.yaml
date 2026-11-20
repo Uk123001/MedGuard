@@ -1,0 +1,57 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: lists-secret
+type: Opaque
+stringData:
+  REVIEWER_CODE: demo-code-only
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: medguard-lists
+  labels:
+    app: medguard-lists
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: medguard-lists
+  template:
+    metadata:
+      labels:
+        app: medguard-lists
+    spec:
+      containers:
+        - name: lists
+          image: medguard-lists:1
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 8080
+          envFrom:
+            - secretRef:
+                name: lists-secret
+          resources:
+            requests: {cpu: 100m, memory: 128Mi}
+            limits: {cpu: 250m, memory: 256Mi}
+          readinessProbe:
+            httpGet: {path: /health, port: 8080}
+            initialDelaySeconds: 3
+            periodSeconds: 5
+          livenessProbe:
+            httpGet: {path: /health, port: 8080}
+            initialDelaySeconds: 10
+            periodSeconds: 10
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: medguard-lists
+spec:
+  type: NodePort
+  selector:
+    app: medguard-lists
+  ports:
+    - port: 80
+      targetPort: 8080
+      nodePort: 30080

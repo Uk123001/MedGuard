@@ -1,0 +1,81 @@
+system,truth,drug_a,drug_b,extracted_severity,category,extra_details
+grounded,Major,Dronedarone,Deflazacort,Major,correct,False
+grounded,NotCovered,Rilonacept,Medrysone (ophthalmic),NoneOrUnknown,correct,False
+grounded,Moderate,Enzalutamide,Fluticasone,Moderate,correct,False
+grounded,Minor,Mitotane,Levobupivacaine,Minor,correct,False
+grounded,NotCovered,Zopiclone,Ferumoxytol,NoneOrUnknown,correct,False
+grounded,Moderate,Treprostinil,Omega-3 fatty acids,Moderate,correct,False
+grounded,Major,Nilutamide,Lefamulin,Major,correct,False
+grounded,NotCovered,Glyburide,Ripretinib,NoneOrUnknown,correct,False
+grounded,NotCovered,Nicotine,Tuberculin purified protein derivative,NoneOrUnknown,correct,False
+grounded,Moderate,Isotretinoin,Remdesivir,Moderate,correct,False
+grounded,Moderate,Warfarin,Phylloquinone,Moderate,correct,True
+grounded,Major,Phenylephrine,Clomipramine,Major,correct,False
+grounded,Unclassified,Methotrexate,Risedronic acid,RecordedNoSeverity,correct,False
+grounded,Minor,Aldesleukin,Norfloxacin,Minor,correct,False
+grounded,Moderate,Mesalazine,Sulindac,Moderate,correct,False
+grounded,Moderate,Pemetrexed,Methoxyflurane,Moderate,correct,False
+grounded,Minor,Prednisolone,Salbutamol,Minor,correct,False
+grounded,Moderate,Reserpine,Ephedrine (nasal),Moderate,correct,False
+grounded,Major,Lumacaftor,Valbenazine,Major,correct,False
+grounded,Major,Apalutamide,Selpercatinib,Major,correct,False
+grounded,Moderate,Pimozide,Tiotropium,Moderate,correct,False
+grounded,Major,Ardeparin,Dalteparin,Major,correct,False
+grounded,Major,Cyclosporine,Erythromycin,Major,correct,False
+grounded,Major,Promethazine,Ivosidenib,Major,correct,False
+grounded,Minor,Clobazam,Calcium carbonate,Minor,correct,False
+grounded,Major,Adalimumab,Olaparib,Major,correct,False
+grounded,Minor,Erythromycin,Cannabidiol,Minor,correct,False
+grounded,Moderate,Pegaspargase,Axitinib,Moderate,correct,False
+grounded,Minor,Amphotericin B (cholesteryl sulfate),Ketoconazole,Minor,correct,False
+grounded,Moderate,Clonazepam,Brigatinib,Moderate,correct,False
+grounded,Major,Protriptyline,Nilotinib,Major,correct,False
+grounded,NotCovered,Botulinum toxin type A,"Interferon alfa-2a, Recombinant",NoneOrUnknown,correct,False
+grounded,Major,Temazepam,Hydrocodone,Major,correct,False
+grounded,Unclassified,Progesterone,Lactulose,RecordedNoSeverity,correct,False
+grounded,Unclassified,Gefitinib,Sucralfate,RecordedNoSeverity,correct,False
+grounded,Major,Tramadol,Ozanimod,Major,correct,False
+grounded,Unclassified,Aztreonam,Cytarabine,RecordedNoSeverity,correct,False
+grounded,Moderate,Bumetanide,Bisacodyl,Moderate,correct,False
+grounded,Unclassified,Latanoprost,Sulfasalazine,RecordedNoSeverity,correct,False
+grounded,Moderate,Sotalol,Iohexol,Moderate,correct,False
+baseline,Major,Dronedarone,Deflazacort,Moderate,wrong_severity,True
+baseline,NotCovered,Rilonacept,Medrysone (ophthalmic),NoneOrUnknown,correct,True
+baseline,Moderate,Enzalutamide,Fluticasone,Major,wrong_severity,True
+baseline,Minor,Mitotane,Levobupivacaine,Moderate,wrong_severity,True
+baseline,NotCovered,Zopiclone,Ferumoxytol,NoneOrUnknown,correct,True
+baseline,Moderate,Treprostinil,Omega-3 fatty acids,Moderate,correct,True
+baseline,Major,Nilutamide,Lefamulin,Major,correct,True
+baseline,NotCovered,Glyburide,Ripretinib,Moderate,invented_interaction,True
+baseline,NotCovered,Nicotine,Tuberculin purified protein derivative,Major,invented_interaction,True
+baseline,Moderate,Isotretinoin,Remdesivir,NoneOrUnknown,said_none,False
+baseline,Moderate,Warfarin,Phylloquinone,Major,wrong_severity,True
+baseline,Major,Phenylephrine,Clomipramine,Major,correct,True
+baseline,Unclassified,Methotrexate,Risedronic acid,NoneOrUnknown,said_none,True
+baseline,Minor,Aldesleukin,Norfloxacin,Moderate,wrong_severity,True
+baseline,Moderate,Mesalazine,Sulindac,Moderate,correct,True
+baseline,Moderate,Pemetrexed,Methoxyflurane,Major,wrong_severity,True
+baseline,Minor,Prednisolone,Salbutamol,Moderate,wrong_severity,True
+baseline,Moderate,Reserpine,Ephedrine (nasal),Major,wrong_severity,True
+baseline,Major,Lumacaftor,Valbenazine,Moderate,wrong_severity,True
+baseline,Major,Apalutamide,Selpercatinib,Major,correct,True
+baseline,Moderate,Pimozide,Tiotropium,NoneOrUnknown,said_none,True
+baseline,Major,Ardeparin,Dalteparin,Major,correct,True
+baseline,Major,Cyclosporine,Erythromycin,Major,correct,True
+baseline,Major,Promethazine,Ivosidenib,Moderate,wrong_severity,True
+baseline,Minor,Clobazam,Calcium carbonate,NoneOrUnknown,said_none,True
+baseline,Major,Adalimumab,Olaparib,NoneOrUnknown,said_none,True
+baseline,Minor,Erythromycin,Cannabidiol,Moderate,wrong_severity,True
+baseline,Moderate,Pegaspargase,Axitinib,Moderate,correct,True
+baseline,Minor,Amphotericin B (cholesteryl sulfate),Ketoconazole,Major,wrong_severity,True
+baseline,Moderate,Clonazepam,Brigatinib,NoneOrUnknown,said_none,True
+baseline,Major,Protriptyline,Nilotinib,Major,correct,True
+baseline,NotCovered,Botulinum toxin type A,"Interferon alfa-2a, Recombinant",NoneOrUnknown,correct,True
+baseline,Major,Temazepam,Hydrocodone,Major,correct,True
+baseline,Unclassified,Progesterone,Lactulose,NoneOrUnknown,said_none,True
+baseline,Unclassified,Gefitinib,Sucralfate,Moderate,invented_severity,True
+baseline,Major,Tramadol,Ozanimod,Major,correct,True
+baseline,Unclassified,Aztreonam,Cytarabine,NoneOrUnknown,said_none,True
+baseline,Moderate,Bumetanide,Bisacodyl,NoneOrUnknown,said_none,True
+baseline,Unclassified,Latanoprost,Sulfasalazine,NoneOrUnknown,said_none,True
+baseline,Moderate,Sotalol,Iohexol,Moderate,correct,True

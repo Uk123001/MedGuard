@@ -1,0 +1,6 @@
+nohup: ignoring input
+sample 900 pairs, already done 358, to do 542
+ERROR: list index out of range
+ERROR: An error occurred (ThrottlingException) when calling the InvokeModel operation (reached max retries: 8): Too many requests, please wait before trying again.
+  300/542 done
+  400/542 done

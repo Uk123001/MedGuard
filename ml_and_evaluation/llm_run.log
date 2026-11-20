@@ -1,0 +1,14 @@
+nohup: ignoring input
+sample 900 pairs, already done 0, to do 900
+ERROR: An error occurred (ThrottlingException) when calling the InvokeModel operation (reached max retries: 8): Too many requests, please wait before trying again.
+  50/900 done
+ERROR: An error occurred (ThrottlingException) when calling the InvokeModel operation (reached max retries: 8): Too many requests, please wait before trying again.
+  100/900 done
+  300/900 done
+  350/900 done
+  500/900 done
+  650/900 done
+  700/900 done
+
+finished: 358 answered, 542 failed, unparsed 0, accuracy so far 0.455
+some calls failed: run the same command again to retry only those
